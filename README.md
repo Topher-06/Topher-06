@@ -1,5 +1,5 @@
-[![Instagram Badge](https://img.shields.io/badge/-IamPseudoX-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/t_0_p_h_e_r)](https://www.instagram.com/t_0_p_h_e_r)
-[![Gmail Badge](https://img.shields.io/badge/-pseudogaming.official@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:christopherfrancisco171@gmail.com)](mailto:christopherfrancisco171@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Topher-06-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/t_0_p_h_e_r)](https://www.instagram.com/t_0_p_h_e_r)
+[![Gmail Badge](https://img.shields.io/badge/-christopherfrancisco171@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:christopherfrancisco171@gmail.com)](mailto:christopherfrancisco171@gmail.com)
 
 ## :zap: Technologies
 
