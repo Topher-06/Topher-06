@@ -15,6 +15,6 @@
 
 ![Topher-06 github stats](https://github-readme-stats.vercel.app/api?username=Topher-06&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Topher-06&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Topher-06&show=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Topher-06)
