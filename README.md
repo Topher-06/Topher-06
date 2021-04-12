@@ -13,7 +13,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Christopher Francisco github stats](https://github-readme-stats.vercel.app/api?username=Topher-06&show_icons=true&theme=radical)
+![Topher-06 github stats](https://github-readme-stats.vercel.app/api?username=Topher-06&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Topher-06&hide=TeX&layout=compact)
 
