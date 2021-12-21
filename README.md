@@ -14,6 +14,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![PHP](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=php)
 ![Codeigniter](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=codeigniter)
+![Flutter](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=flutter)
+
 
 ![Topher-06 github stats](https://github-readme-stats.vercel.app/api?username=Topher-06&show_icons=true&theme=radical)
 
