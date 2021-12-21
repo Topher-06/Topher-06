@@ -12,6 +12,8 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![PHP](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=php)
+![Codeigniter](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=codeigniter)
 
 ![Topher-06 github stats](https://github-readme-stats.vercel.app/api?username=Topher-06&show_icons=true&theme=radical)
 
